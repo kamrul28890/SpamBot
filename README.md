@@ -40,12 +40,6 @@ The `spam.csv` file is a labeled dataset where each message is marked as:
 - `spam` — unwanted/advertising content.
 - `ham` — legitimate message.
 
-## Possible Improvements
-
-- Hyperparameter tuning  
-- Advanced text preprocessing (stemming, lemmatization)  
-- Use of deep learning models (e.g., LSTM, transformers)
-
 ## License
 
 This project is for educational purposes.
